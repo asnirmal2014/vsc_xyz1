@@ -6,9 +6,9 @@ public class ArrayManager1
 		   
 	    a[0] = 100;
 	    a[1] = 200;
-	    a[2] = 130;
-	    a[3] = 130;
-	    a[4] = 130;
+	    a[2] = 300;
+	    a[3] = 400;
+	    a[4] = 500;
 		    
 		System.out.println(a[0]);
 		System.out.println(a[1]);
