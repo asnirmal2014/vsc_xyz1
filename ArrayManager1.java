@@ -4,8 +4,8 @@ public class ArrayManager1
 	{
 		int a[] = new int[5];    // Array initialization.
 		   
-	    a[0] = 10;
-	    a[1] = 20;
+	    a[0] = 100;
+	    a[1] = 200;
 	    a[2] = 130;
 	    a[3] = 130;
 	    a[4] = 130;
